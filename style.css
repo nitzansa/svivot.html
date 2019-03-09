@@ -45,11 +45,66 @@ a
 	text-align: center;
 	border-right: 1px solid lightseagreen;
 }
-
+#photos
+{
+	font: bold 30px/30px Georgia, serif;
+	font-size: 250%;
+	text-decoration: none;
+	color: rgb(8, 112, 81);
+	text-align: center;
+	border-right: 1px solid lightseagreen;
+}
+#playlist
+{
+	font: bold 30px/30px Georgia, serif;
+	font-size: 250%;
+	text-decoration: none;
+	color: rgb(8, 112, 81);
+	text-align: center;
+	border-right: 1px solid lightseagreen;
+}
+#like
+{
+	font: bold 30px/30px Georgia, serif;
+	font-size: 100%;
+	text-decoration: none;
+	color: rgb(8, 112, 81);
+	text-align: left;
+	border-right: 1px solid lightseagreen;
+}
+#qrcoder
+{
+	font: bold 30px/30px Georgia, serif;
+	font-size: 250%;
+	text-decoration: none;
+	color: rgb(8, 112, 81);
+	text-align: center;
+	border-right: 1px solid lightseagreen
+	
+}
+#spa
+{
+	font: bold 30px/30px Georgia, serif;
+	font-size: 250%;
+	text-decoration: none;
+	color: rgb(8, 112, 81);
+	text-align: center;
+	border-right: 1px solid lightseagreen
+}
+#contact
+{
+	font: bold 30px/30px Georgia, serif;
+	font-size: 250%;
+	text-decoration: none;
+	color: rgb(8, 112, 81);
+	text-align: center;
+	border-right: 1px solid lightseagreen
+}
 body
 {
 	background-image:url("imageedit_1_4989295296.png");
 	background-size: 60% 100%;
+	size: 100%;
 	background-repeat: no-repeat;
   	background-position: right top;
 	background-attachment: fixed;
