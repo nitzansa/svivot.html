@@ -19,7 +19,16 @@ a
 	text-align: center;
 	border-right: 1px solid rgb(159, 209, 207);
 }
-
+#logo
+{
+	float: right;
+	size: 5%;
+	border-radius: 50%;
+	z-index: 1; /* Stay on top */
+	top: 0; /* Stay at the top */
+	left: 0;
+	position: relative;
+}
 #about1
 {
 	font: 12px/30px Georgia, serif;
@@ -36,7 +45,7 @@ a
 	font: bold 60px/60px Georgia, serif;
 	font-size: 500%;
 	text-decoration: none;
-	color: rgb(8, 112, 81);
+	color: rgb(9, 88, 65);
 	text-align: left;
 	border-right: 1px solid lightseagreen;
 }
@@ -55,7 +64,7 @@ a
 	font: bold 30px/30px Georgia, serif;
 	font-size: 250%;
 	text-decoration: none;
-	color: rgb(8, 112, 81);
+	color: rgb(9, 88, 65);
 	text-align: center;
 	border-right: 1px solid lightseagreen;
 }
@@ -102,7 +111,7 @@ a
 	font: bold 30px/30px Georgia, serif;
 	font-size: 250%;
 	text-decoration: none;
-	color: rgb(8, 112, 81);
+	color: rgb(9, 88, 65);
 	text-align: center;
 	border-right: 1px solid lightseagreen;
 }
@@ -111,7 +120,7 @@ a
 	font: bold 30px/30px Georgia, serif;
 	font-size: 100%;
 	text-decoration: none;
-	color: rgb(8, 112, 81);
+	color: rgb(9, 88, 65);
 	text-align: left;
 	border-right: 1px solid lightseagreen;
 }
@@ -120,7 +129,7 @@ a
 	font: bold 30px/30px Georgia, serif;
 	font-size: 250%;
 	text-decoration: none;
-	color: rgb(8, 112, 81);
+	color: rgb(9, 88, 65);
 	text-align: center;
 	border-right: 1px solid lightseagreen
 	
@@ -130,7 +139,7 @@ a
 	font: bold 30px/30px Georgia, serif;
 	font-size: 250%;
 	text-decoration: none;
-	color: rgb(8, 112, 81);
+	color: rgb(9, 88, 65);
 	text-align: center;
 	border-right: 1px solid lightseagreen
 }
