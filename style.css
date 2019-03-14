@@ -59,7 +59,7 @@ a
 	font: bold 30px/30px Georgia, serif;
 	font-size: 250%;
 	text-decoration: none;
-	color: rgb(8, 112, 81);
+	color: rgb(9, 88, 65);
 	text-align: center;
 	border-right: 1px solid lightseagreen;
 }
@@ -175,4 +175,27 @@ body
   	background-position: right top;
 	background-attachment: fixed;
 	background-color:lightcyan;
+}
+
+.ans
+{
+	font: 12px/30px Georgia, serif;
+	font-style: italic;
+	font-size-adjust: none;
+	font-size: 60%;
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+	text-align: left;
+	border-right: 1px solid lightseagreen;
+}
+
+.name
+{
+	font: bold 12px/30px Georgia, serif;
+	font-style: italic;
+	font-size-adjust: none;
+	font-size: 100%;
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+	text-align: center;
 }
