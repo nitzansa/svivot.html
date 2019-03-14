@@ -65,6 +65,7 @@ a
 	color: rgb(9, 88, 65);
 	text-align: center;
 	border-right: 1px solid lightseagreen;
+
 }
 #photos
 {
@@ -185,7 +186,7 @@ body
 	font: 12px/30px Georgia, serif;
 	font-style: italic;
 	font-size-adjust: none;
-	font-size: 60%;
+	font-size: 50%;
 	text-decoration: none;
 	color: rgb(0, 0, 0);
 	text-align: left;
